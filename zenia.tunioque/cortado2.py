@@ -1,0 +1,104 @@
+#Ejercicio1:
+#              1
+#    01234567890123456789
+msg="YO NO MEREZCO VOLVER"
+print(msg[6:13])
+#Devuelve MEREZCO
+
+#Ejercicio2:
+#              1         2         3         4
+#    0123456789012345678901234567890123456789012345678
+msg="ESPERO QUE NUNCA OLVIDES QUE SOMOS MEJORES AMIGOS"
+print(msg[35:40])
+#Devuelve MEJOR
+
+#Ejercicio3:
+#              1         2         3
+#    0123456789012345678901234567890123
+msg="SOLDADO PERDIDO NO MUERE EN GUERRA"
+print(msg[3:8])
+#Devuelve DADO
+
+#Ejercicio4:
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456789
+msg="MI ABUELO TIENE UN BURRO, DOS CABALLOS, Y UNA VACA"
+print(msg[46:50])
+#Devuelve VACA
+
+#Ejercicio5:
+#              1         2         3
+#    012345678901234567890123456789012
+msg="GRACIAS A DIOS QUE ME DIO LA VIDA"
+print(msg[10:14])
+#Devuelve DIOS
+
+#Ejercicio6:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890123
+msg="SE QUE ESTOY ENFERMO, PERO SE QUE ME CURARE MUY PRONTO"
+print(msg[37:41])
+#Devuelve CURA
+
+#Ejercicio7:
+#              1         2
+#    012345678901234567890123456
+msg="SE HACE LA QUE NO ME CONOCE"
+print(msg[21:27])
+#Devuelve CONOCE
+
+#Ejercicio8:
+#              1         2         3
+#    01234567890123456789012345678901234
+msg="ME LA COMO ENTERA Y NADIE SE ENTERA"
+print(msg[26:28])
+#Devuelve SE
+
+#Ejercicio9:
+#              1         2         3         4         5         6
+#    01234567890123456789012345678901234567890123456789012345678901234567
+msg="ME FALLASTE MUCHAS VECES AUN ASI TE QUIERO MUCHO, POR ESO TE PERDONO"
+print(msg[3:8])
+#Devuelve FALLA
+
+#Ejercicio10:
+#              1         2         3         4
+#    01234567890123456789012345678901234567890
+msg="TE OLVIDARE AUNQUE SEA LO ULTIMO QUE HAGA"
+print(msg[33:36])
+#Devuelve QUE
+
+#Ejercicio11:
+#              1         2         3         4         5         6         7
+#    0123456789012345678901234567890123456789012345678901234567890123456789012
+msg="MILAGROS CELA MUCHO A MI AMIGO DARWIN, NO LO DEJA NI SALIR A JUGAR FUTBOL"
+print(msg[12:11:-1])
+#Devuelve ALE
+
+#Ejercicio12:
+#              1         2         3         4         5         6
+#    01234567890123456789012345678901234567890123456789012345678901234567
+msg="TE QUIERO TANTO, TANTO AMOR, CADA DIA UN POCO MAS, PEQUENIA TRAVIESA"
+print(msg[26:23:-1])
+#Devuelve ROMA
+
+#Ejercicio13:
+#              1         2         3         4         5         6         7
+#    0123456789012345678901234567890123456789012345678901234567890123456789012
+msg="Y YO NO SABIA QUE CON UN BESO SE PODIA PARAR EL TIEMPO Y LO APRENDI DE TI"
+print(msg[35:38])
+#Devuelve DIA
+
+#Ejercicio14:
+#              1         2         3         4         5
+#    01234567890123456789012345678901234567890123456789012
+msg="SE QUE TE VAS, QUE YA NO TE IMPORTA SI ME QUEDO ATRAS"
+print(msg[28:35])
+#Devuelve IMPORTA
+
+#Ejercicio15:
+#              1         2         3         4         5         6         7         8         9         10        11
+#    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123
+msg="TENGO UN AMOR QUE ES UN CASTIGO DEL SENIOR QUE ME ILUMINA Y ME ACELERA EL CORAZON QUE A DEJADO SOLO SIN VER EL SOL"
+print(msg[76:81])
+#Devuelve RAZON
