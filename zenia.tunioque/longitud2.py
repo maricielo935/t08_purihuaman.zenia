@@ -1,0 +1,104 @@
+#Ejercicio 1:
+#              1         2         3         4         5         6         7
+#    01234567890123456789012345678901234567890123456789012345678901234567890123456
+msg="ROSA SE MUDARA EL OTRO ANIO A CHICLAYO YA QUE ACTUALMENTE VIVE EN LAMABAYEQUE"
+print(len(msg))
+#Devuelve 77
+
+#Ejercicio 2:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890123456789
+msg="LA SERIE QUE VIMOS AYER EN NETFLIX ESTUVO DEMASIADO ABURRIDA"
+print(len(msg))
+#Devuelve 60
+
+#Ejercicio 3:
+#              1         2         3         4         5         6         7         8
+#    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456
+msg="EL MAESTRO CALIFICO LOS EXAMENES Y DIJO QUE LA GRAN MAYORIA DEL AULA ESTABA DESAPROBADO"
+print(len(msg))
+#Devuelve 87
+
+#Ejercicio 4:
+#              1         2         3         4         5         6         7
+#    01234567890123456789012345678901234567890123456789012345678901234567890123456
+msg="EL DIRECTOR DEL COLEGIO IMFORMO LA MALA CONDUCA DE UN ESTUDIANTE A SUS PADRES"
+print(len(msg))
+#Devuelve 77
+
+#Ejercicio 5:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890
+msg="LOS DOCTORES ATENDIERON A SUS RESPECTIVOS PACIENTES"
+print(len(msg))
+#Devuelve 51
+
+#Ejercicio 6:
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456789
+msg="LOS SOLDADOS ESTAN LISTOS PARA LA SIGUIENTE MISION"
+print(len(msg))
+#Devuelve 50
+
+#Ejercicio 7:
+#              1         2         3         4         5         6
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="LOS ANOGADOS OPTARON POR CONCILIAR, YA QUE VEIAN EL CASO PERDIDO"
+print(len(msg))
+#Devuelve 64
+
+#Ejercicio 8:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890123
+msg="EL PERIODISTA REDACTO UN ARTISTICO MUY BUENO Y CRITICO"
+print(len(msg))
+#Devuelve 54
+
+#Ejercicio 9:
+#              1         2         3         4         5         6         7
+#    0123456789012345678901234567890123456789012345678901234567890123456789012
+msg="EL ESTUDIANTE ESCUCHO ATENTO LAS INDICACIONES PARA PODER RENDIR SU EXAMEN"
+print(len(msg))
+#Devuelve 73
+
+#Ejercicio 10:
+#              1         2         3         4         5         6         7
+#    0123456789012345678901234567890123456789012345678901234567890123456789012345678
+msg="LOS CAMPESINOS RETIRARON EL TRONCO DEL CAMINO, YA QUE ESTE, INTERRUMPIA EL PASO"
+print(len(msg))
+#Devuelve 79
+
+#Ejercicio 11:
+#              1         2         3
+#    012345678901234567890123456789012
+msg="MI PERRO FIDO LADRO TODA LA NOCHE"
+print(len(msg))
+#Devuelve 33
+
+#Ejercicio 12:
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456
+msg="NO FUMES, LOS CIGARROS PERJUDICAN PARA LA SALUD"
+print(len(msg))
+#Devuelve 47
+
+#Ejercicio 13:
+#              1         2         3         4         5         6
+#    0123456789012345678901234567890123456789012345678901234567890123456
+msg="LS PROXIMAS ELECCIONES SE DARAN EL PROXIMO ANIO, EN EL MES DE ENERO"
+print(len(msg))
+#Devuelve 67
+
+#Ejercicio 14:
+#              1         2         3         4         5         6         7
+#    01234567890123456789012345678901234567890123456789012345678901234567890
+msg="TRAS LA CATASTROFE LA GENTE SE REFUGIO EN UNA ZONA APARENTEMENTE SEGURA"
+print(len(msg))
+#Devuelve 71
+
+#Ejercicio 15:
+#              1         2         3
+#    012345678901234567890123456789012345678
+msg="EL ESPECTACULO ESTUVO MUY INPRESIONANTE"
+print(len(msg))
+#Devuelve 39
