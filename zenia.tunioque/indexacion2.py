@@ -1,0 +1,104 @@
+#Ejercicio1:
+#              1         2         3         4         5
+#    0123456789012345678901234567890123456789012345678901234
+msg="JESUS MURIO POR NOSOTROS PARA PERDONAR NUESTROS PECADOS"
+print(msg[42])
+#Devuelve S
+
+#Ejercicio2:
+#              1         2         3
+#    012345678901234567890123456789012345
+msg="DEJALA IR, YA NO LE RUEGES, SUPERALA"
+print(msg[28])
+#Devuelve S
+
+#Ejercicio3:
+#              1         2         3         4         5         6         7
+#    0123456789012345678901234567890123456789012345678901234567890123456789012345678
+msg="SI POR ALGO NO FUNCIONO SU RELACION ES PORQUE QUIZA NO ERAN EL UNO PARA EL OTRO"
+print(msg[76])
+#Devuelve T
+
+#Ejercicio4:
+#              1         2         3
+#    012345678901234567890123456789012345
+msg="JURO QUE NUNCA MAS VOLVERE A CREERTE"
+print(msg[11])
+#Devuelve N
+
+#Ejercicio5:
+#              1         2         3         4         5         6         7
+#    01234567890123456789012345678901234567890123456789012345678901234567890123456
+msg="NO SUELO CONFIAR MUCHO EN LA GENTE PERO CUANDO LO HAGO, LO HAGO COMPLETAMENTE"
+print(msg[31])
+#Devuelve N
+
+#Ejercicio6:
+#              1         2         3         4         5         6         7
+#    012345678901234567890123456789012345678901234567890123456789012345678901234567
+msg="PROXIMAMENTE SE ESTRENARA LA SERIE THE WITHCHER EN NETFLIX, EL 20 DE DICIEMBRE"
+print(msg[54])
+#Devuelve F
+
+#Ejercicio7:
+#              1         2         3         4         5         6         7
+#    012345678901234567890123456789012345678901234567890123456789012345678901
+msg="ME IRE, Y NUNCA MAS REGRESARE, ESO TE LO PROMETO, SI ME VUELVES A FALLAR"
+print(msg[67])
+#Devuelve A
+
+#Ejercicio8:
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456789
+msg="AMIGOS CON DERECHO ES UNA CANCION DE REIK Y MALUMA"
+print(msg[48])
+#Devuelve M
+
+#Ejercicio9:
+#              1         2         3         4         5
+#    0123456789012345678901234567890123456789012345678901234
+msg="EN LA SECUNDARIA ESTUDIE EN EL COLEGIO PERUANO ESPANIOL"
+print(msg[31])
+#Devuelve C
+
+#Ejercicio10:
+#              1         2         3         4         5
+#    0123456789012345678901234567890123456789012345678901
+msg="MANIANA IRE A TUMBES A RECOJER UN ENCARGO DE MI MAMI"
+print(msg[49])
+#Devuelve A
+
+#Ejercicio11:
+#              1         2
+#    01234567890123456789012345678
+msg="MARICIELO SIEMPRE LLEGA TARDE"
+print(msg[25])
+#Devuelve A
+
+#Ejercicio12:
+#              1         2         3
+#    01234567890123456789012345678901
+msg="METRO, PRECIOS MAS BAJOS SIEMPRE"
+print(msg[13])
+#Devuelve S
+
+#Ejercicio13:
+#              1         2         3         4         5
+#    01234567890123456789012345678901234567890123456789012
+msg="PERO SI LE PONES LA CANCION LE DA UNA DEPRESION TONTA"
+print(msg[40])
+#Devuelve P
+
+#Ejercicio14:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890123
+msg="PENSABA QUE LA HABIA OLVIDADO PERO PUSIERON LA CANCION"
+print(msg[33])
+#Devuelve O
+
+#Ejercicio15:
+#              1         2         3         4
+#    012345678901234567890123456789012345678901234567
+msg="ADIOS AMOR, ME VOY DE TI Y ESTA VEZ PARA SIEMPRE"
+print(msg[45])
+#Devuelve P
